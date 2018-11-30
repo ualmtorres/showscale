@@ -1,3 +1,3 @@
 <?php
-  echo "Contenedor: " . gethostname(); 
+  echo "Contenedor: " . gethostname() . "<br/>"; 
 ?>
